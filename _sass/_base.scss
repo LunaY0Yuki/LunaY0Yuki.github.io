@@ -109,7 +109,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
     .address {
       p { display: block; }
     }
@@ -128,7 +128,9 @@ blockquote {
   }
 }
 
-
+.emphasize{
+  color: var(--global-hover-color)
+}
 // Navbar customization
 
 .navbar {
@@ -489,8 +491,9 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        min-width: 200px;
+        max-width: 300px;
+        margin-right: 1rem;
       }
       .abbr {
         height: 2rem;
