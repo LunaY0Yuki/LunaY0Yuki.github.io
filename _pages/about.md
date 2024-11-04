@@ -6,7 +6,7 @@ subtitle: <a href='https://portal.cs.cornell.edu/'>PoRTaL</a> lab member. 3rd Ye
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: yuki_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address:
     <p>yukiwang at cs.cornell.edu</p>
