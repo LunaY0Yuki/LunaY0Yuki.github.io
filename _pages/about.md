@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address:
     <p>yukiwang at cs.cornell.edu</p>
-    <p>hw575 at cs.cornell.edu</p>
+    <p>hw575 at cornell.edu</p>
     
 
 news: true  # includes a list of news items
@@ -26,4 +26,4 @@ My research focuses on LLM agents, imitation learning (IRL), and foundation mode
 
 I did my undergrad at Harvey Mudd College, where I did research in a wide range of areas: human-robot interactions(<a href='https://www.cs.hmc.edu/HEAT/'>@HEATlab</a>), underwater robotics (<a href='https://www.lair.hmc.edu/'>@LAIR</a>), and experimental airplane construction (<a href='https://www.hmc.edu/engineering/undergraduate-research-experiences/david-harris-research-group/'>@HMC Aero Lab</a>). 
 
-Link to my CV: [here](/huaxiaoyue_yuki_wang_cv.pdf)
+[Link to my CV!](/huaxiaoyue_yuki_wang_cv.pdf)
