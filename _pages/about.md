@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://portal.cs.cornell.edu/'>PoRTaL</a> lab member. 3rd Year CS Ph.D. at Cornell University.
 
@@ -26,4 +26,4 @@ When humans learn to do tasks, we can watch others, ask questions, and improve b
 
 I did my undergrad at Harvey Mudd College, where I did research in a wide range of areas: experimental airplane construction (<a href='https://www.hmc.edu/engineering/undergraduate-research-experiences/david-harris-research-group/'>@HMC Aero Lab</a>), underwater robotics (<a href='https://www.lair.hmc.edu/'>@LAIR</a>), and human-robot interactions(<a href='https://www.cs.hmc.edu/HEAT/'>@HEATlab</a>). 
 
-Link to my CV: [here](/assets/pdf/huaxiaoyue_yuki_wang_cv.pdf)
+Link to my CV: [here](/huaxiaoyue_yuki_wang_cv.pdf)
