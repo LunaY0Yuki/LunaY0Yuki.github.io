@@ -18,12 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third-year CS PhD student at Cornell Univeristy. I am currently a member of the <a href='https://portal.cs.cornell.edu/'>PoRTaL lab</a>, working with <a href='https://www.sanjibanchoudhury.com/'>Prof. Sanjiban Choudhury</a> on <i>how foundation models can help robots learn from interacting with humans</i>.
+Hi! I am a third-year CS PhD student at Cornell Univeristy. I am currently a member of the <a href='https://portal.cs.cornell.edu/'>PoRTaL lab</a>, working with <a href='https://www.sanjibanchoudhury.com/'>Prof. Sanjiban Choudhury</a>.
 
-Foundation models are used in many ways, but I am particularly interested in how they can help robots learn from humans!
+I work on <em>interactive AI agents that learn and act given different levels of information (e.g., goal specification, vague language feedback, few-shot video demonstrations)</em>.
 
-When humans learn to do tasks, we can watch others, ask questions, and improve based on feedback instead of simply relying on language instructions. My key insight is: robots should do the same; they can also benefit from (1) demonstrations, (2) online interactions, and (3) feedback when they need to learn new tasks and refine their behaviors.
+My research focuses on LLM agents, imitation learning (IRL), and foundation models for robotics.
 
-I did my undergrad at Harvey Mudd College, where I did research in a wide range of areas: experimental airplane construction (<a href='https://www.hmc.edu/engineering/undergraduate-research-experiences/david-harris-research-group/'>@HMC Aero Lab</a>), underwater robotics (<a href='https://www.lair.hmc.edu/'>@LAIR</a>), and human-robot interactions(<a href='https://www.cs.hmc.edu/HEAT/'>@HEATlab</a>). 
+I did my undergrad at Harvey Mudd College, where I did research in a wide range of areas: human-robot interactions(<a href='https://www.cs.hmc.edu/HEAT/'>@HEATlab</a>), underwater robotics (<a href='https://www.lair.hmc.edu/'>@LAIR</a>), and experimental airplane construction (<a href='https://www.hmc.edu/engineering/undergraduate-research-experiences/david-harris-research-group/'>@HMC Aero Lab</a>). 
 
 Link to my CV: [here](/huaxiaoyue_yuki_wang_cv.pdf)
