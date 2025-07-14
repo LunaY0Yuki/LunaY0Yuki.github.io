@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://portal.cs.cornell.edu/'>PoRTaL</a> lab member. 3rd Year CS Ph.D. at Cornell University.
+subtitle: <a href='https://portal.cs.cornell.edu/'>PoRTaL</a> lab member. 4th Year CS Ph.D. at Cornell University.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third-year CS PhD student at Cornell Univeristy. I am currently a member of the <a href='https://portal.cs.cornell.edu/'>PoRTaL lab</a>, working with <a href='https://www.sanjibanchoudhury.com/'>Prof. Sanjiban Choudhury</a>.
+Hi! I am a final year CS PhD student at Cornell Univeristy. I am currently a member of the <a href='https://portal.cs.cornell.edu/'>PoRTaL lab</a>, working with <a href='https://www.sanjibanchoudhury.com/'>Prof. Sanjiban Choudhury</a>. For Summer 2025, I am a Research Intern at Adobe, working with <a href='https://research.adobe.com/person/stefano-petrangeli/'>Stefano Petrangeli</a> on AI assistants for content creation.
 
 I work on <em>interactive AI agents that learn and act given different levels of information (e.g., goal specification, vague language feedback, few-shot video demonstrations)</em>.
 
